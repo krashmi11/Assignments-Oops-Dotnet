@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\AreaCalculation\obj\Debug\AreaCalculation.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\AreaCalculation\obj\Debug\AreaCalculation.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\AreaCalculation\bin\Debug\AreaCalculation.exe.config
+D:\DOTNET\Fendahl\AreaCalculation\bin\Debug\AreaCalculation.exe
+D:\DOTNET\Fendahl\AreaCalculation\bin\Debug\AreaCalculation.pdb
+D:\DOTNET\Fendahl\AreaCalculation\obj\Debug\AreaCalculation.exe
+D:\DOTNET\Fendahl\AreaCalculation\obj\Debug\AreaCalculation.pdb
