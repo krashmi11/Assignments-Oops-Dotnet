@@ -1,7 +1,0 @@
-D:\DOTNET\Fendahl\CompileTime Polymorphism\obj\Debug\CompileTime Polymorphism.csproj.AssemblyReference.cache
-D:\DOTNET\Fendahl\CompileTime Polymorphism\obj\Debug\CompileTime Polymorphism.csproj.CoreCompileInputs.cache
-D:\DOTNET\Fendahl\CompileTime Polymorphism\bin\Debug\CompileTime Polymorphism.exe.config
-D:\DOTNET\Fendahl\CompileTime Polymorphism\bin\Debug\CompileTime Polymorphism.exe
-D:\DOTNET\Fendahl\CompileTime Polymorphism\bin\Debug\CompileTime Polymorphism.pdb
-D:\DOTNET\Fendahl\CompileTime Polymorphism\obj\Debug\CompileTime Polymorphism.exe
-D:\DOTNET\Fendahl\CompileTime Polymorphism\obj\Debug\CompileTime Polymorphism.pdb
