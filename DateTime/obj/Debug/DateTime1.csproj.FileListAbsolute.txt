@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\DateTime\bin\Debug\DateTime.exe.config
+D:\DOTNET\Fendahl\DateTime\bin\Debug\DateTime.exe
+D:\DOTNET\Fendahl\DateTime\bin\Debug\DateTime.pdb
+D:\DOTNET\Fendahl\DateTime\obj\Debug\DateTime1.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\DateTime\obj\Debug\DateTime1.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\DateTime\obj\Debug\DateTime.exe
+D:\DOTNET\Fendahl\DateTime\obj\Debug\DateTime.pdb

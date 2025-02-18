@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\DOTNET\Fendahl\Encapsulation\bin\Debug\Encapsulation.exe
+D:\DOTNET\Fendahl\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\DOTNET\Fendahl\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Encapsulation\obj\Debug\Encapsulation.exe
+D:\DOTNET\Fendahl\Encapsulation\obj\Debug\Encapsulation.pdb

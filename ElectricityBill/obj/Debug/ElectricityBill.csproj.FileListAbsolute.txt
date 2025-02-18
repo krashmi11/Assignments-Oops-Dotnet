@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\ElectricityBill\bin\Debug\ElectricityBill.exe.config
+D:\DOTNET\Fendahl\ElectricityBill\bin\Debug\ElectricityBill.exe
+D:\DOTNET\Fendahl\ElectricityBill\bin\Debug\ElectricityBill.pdb
+D:\DOTNET\Fendahl\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\ElectricityBill\obj\Debug\ElectricityBill.exe
+D:\DOTNET\Fendahl\ElectricityBill\obj\Debug\ElectricityBill.pdb

@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\TaxCalculation\bin\Debug\TaxCalculation.exe.config
+D:\DOTNET\Fendahl\TaxCalculation\bin\Debug\TaxCalculation.exe
+D:\DOTNET\Fendahl\TaxCalculation\bin\Debug\TaxCalculation.pdb
+D:\DOTNET\Fendahl\TaxCalculation\obj\Debug\TaxCalculation.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\TaxCalculation\obj\Debug\TaxCalculation.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\TaxCalculation\obj\Debug\TaxCalculation.exe
+D:\DOTNET\Fendahl\TaxCalculation\obj\Debug\TaxCalculation.pdb

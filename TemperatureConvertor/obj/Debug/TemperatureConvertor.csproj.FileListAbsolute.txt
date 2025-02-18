@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\TemperatureConvertor\bin\Debug\TemperatureConvertor.exe.config
+D:\DOTNET\Fendahl\TemperatureConvertor\bin\Debug\TemperatureConvertor.exe
+D:\DOTNET\Fendahl\TemperatureConvertor\bin\Debug\TemperatureConvertor.pdb
+D:\DOTNET\Fendahl\TemperatureConvertor\obj\Debug\TemperatureConvertor.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\TemperatureConvertor\obj\Debug\TemperatureConvertor.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\TemperatureConvertor\obj\Debug\TemperatureConvertor.exe
+D:\DOTNET\Fendahl\TemperatureConvertor\obj\Debug\TemperatureConvertor.pdb
